@@ -1,0 +1,3 @@
+# Lean
+
+The term "lean" refers to a methodology that was created and used for the first time by the Toyota Production System in the 1950s to make things. Lean is a business model that, at its core, supports the flow of value to the customer through two guiding tenets: Continuous improvement and respect for people, to paraphrase Planview LeanKit. These guiding principles are evident in documents like the Agile Manifesto from 2001. In order to facilitate the flow of software design and development, object-oriented programming (OOP) and the related field of object-oriented design (OOD) emerged in the 1950s. These three concepts collectively rank among the most crucial pillars of Agile and Scrum.
