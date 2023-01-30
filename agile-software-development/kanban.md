@@ -9,3 +9,5 @@ When working on a project, the questions that should always be asked are, _"Wher
 A core property of Kanban is visualizing not only workflow but also incoming work requests, thus optimizing the workflow system in a significant way.&#x20;
 
 Kanban recognizes that the key to success is limiting work in progress (WIP); new work is only drawn into the workflow when there is available capacity.
+
+One of the great benefits of Kanban is that it can be imposed on existing processes.

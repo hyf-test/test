@@ -4,7 +4,7 @@
 * [Agile software development](agile-software-development/README.md)
   * [Lean & Scrum](agile-software-development/lean-and-scrum.md)
   * [Lean](agile-software-development/lean.md)
-  * [XP](agile-software-development/xp.md)
+  * [Extreme Programming (XP)](agile-software-development/extreme-programming-xp.md)
   * [Kanban](agile-software-development/kanban.md)
   * [Scrum](agile-software-development/scrum/README.md)
     * [Sprints](agile-software-development/scrum/sprints.md)
