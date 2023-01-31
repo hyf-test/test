@@ -18,6 +18,8 @@ scrum at its core holds three empirical processes pillars.
 
 Showing work early and often and being transparent on how the development is doing even if it isn't perfect, allows the team to inspect the process and adopt.
 
+{% embed url="https://alison.com/courseware/5265/28127/3/images/1652710308627090128.png" %}
+
 ### Values of Scrum
 
 the 5 values of Scrum are: FORCC
@@ -61,5 +63,7 @@ Scrum combines four formal events (Planning, Daily Scrum, Review & Retrospective
 \
 These events are successful because they put into practice the empirical Scrum pillars of transparency, inspection, and adaptation.
 
-{% embed url="https://alison.com/courseware/5265/28127/3/images/1652710308627090128.png" %}
+{% embed url="https://alison.com/courseware/5265/28128/2/images/16551080341390963413.png" %}
+353 rule
+{% endembed %}
 

@@ -8,16 +8,6 @@ The collaborative culture facilitated by Agile also improves efficiency througho
 
 Finally, companies using Agile software development can feel confident that they are releasing a high-quality product because testing is performed throughout development. This provides the opportunity to make changes as needed and alert teams to any potential issues.
 
-#### Agile mindset&#x20;
-
-focuses on “being agile” as a foundation for success in “doing agile.”
-
-An agile mindset is crucial to success in an uncertain environment.
-
-an agile mindset gives you the ability to blend agile methods and frameworks to meet the emerging needs of your organization.
-
-**The four values of the Agile Manifesto are the foundation of an agile mindset**
-
 ## Manifesto for Agile Software Development
 
 _We are uncovering better ways of developing software by doing it and helping others do it._
@@ -26,39 +16,13 @@ _Through this work we have come to value:_
 
 _**Individuals and interactions** over processes and tools_ - Businesspeople and developers must work together daily through out the project.
 
-_**Working software** over comprehensive documentation_ - simplicity the art of maximizing the amount of work done is essential
+_**Working software** over comprehensive documentation_ - simlicity the art of maximizing the amount of work done is essential
 
-_**Customer collaboration** over contract negotiation_ - welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+_**Customer collaboration** over contract negotiation_ - welcome changing requirements, even late in development. Agile processes harness change for the customer's competitve advantage.
 
-_**Responding to change** over following a plan_ - build projects around motivated individuals. Give them the environment and support they need and trust them to get the job done.
+_**Responding to change** over following a plan_ - build projects arround motivated individuals. Give them the enviroment and support they need and trust them to get the job done.
 
 _That is, while there is value in the items on the right, we value the items on the left more._
-
-## Agile principles&#x20;
-
-Principle 1: Our highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
-
-Principle 2: Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
-
-Principle 3: Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for a shorter timescale.
-
-Principle 4: Business people and developers must work together daily throughout the project.
-
-Principle 5: Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-
-Principle 6: The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-
-Principle 7: Working software is the primary measure of progress.
-
-Principle 8: Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
-Principle 9: Continuous attention to technical excellence and good design enhances agility.
-
-Principle 10: Simplicity — the art of maximizing the amount of work not done — is essential.
-
-Principle 11: The best architectures, requirements, and designs emerge from self-organizing teams.
-
-Principle 12: At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 ## Agile lifecycle
 

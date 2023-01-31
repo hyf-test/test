@@ -15,3 +15,7 @@ It is necessary to mention that Extreme Programming has the highest degree of cu
 It focuses on the whole-team approach. In this case, the emphasis is on practices that eliminate distracting clutter.
 
 The fundamental values of XP are _simplicity, communication, feedback, courage, and respect_. Members of the XP team are, ideally, not specialists, but can fulfill many roles—analyst, coach or facilitator, manager, etc. At the core of the XP team, however, is always a business representative called _“the customer.”_&#x20;
+
+Through simple design, test-driven development, and the resulting design improvement, the XP team keeps the system on track and integrated.
+
+The team’s shared overview also ensures that the work continues at a pace that can be sustained indefinitely, delivering a consistently high-quality product to an _end-user who is involved throughout the entire process._
