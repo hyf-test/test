@@ -40,21 +40,43 @@ the 5 values of Scrum are: FORCC
 
 A scrum team needs three specific roles:
 
-:martial\_arts\_uniform:**Scrum master** : to make sure the project is progressing smoothly and that every member of the team has the tools they need to get their job done.
+:martial\_arts\_uniform:**Scrum master** : to make sure the project is progressing smoothly and that every member of the team has the tools they need to get their job done. protects the team from completing the work without distractions and resolves the day-to-day issues.
 
 &#x20;   Responsibilities : sets up meetings, monitors the work being done and facilitates release planning.&#x20;
 
-:woman\_office\_worker: **Product owner** : helps make sure the right features make it into the product backlog
+:woman\_office\_worker: **Product owner** : helps make sure the right features make it into the product backlog representing the users and customers of the product.
 
-representing the users and customers of the product.
+The product owners establish the vision before any work begins.
 
 &#x20;     Responsibilities: work on the backlog and set the direction of the product.
 
-:family: **Developers**: build the product and test it to make sure it works right.
+:family: **Developers**: build the product and test it to make sure it works right. committed to creating any aspect of a usable Increment in each Sprint.
+
+{% embed url="https://alison.com/courseware/5265/28128/2/images/1659710400360319583.png" %}
+communication breakdown
+{% endembed %}
 
 ### Scrum artifacts
 
 are important information used by the scrum team that helps define the product and what work to be done to create the product. There are three artifacts in scrum: **product backlog**, a **sprint backlog**, and an **increment with your definition of “done”**.
+
+**product backlog:** The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+
+&#x20;        Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller, more precise items. This is an ongoing activity to add details, such as a description, order, and size.
+
+**sprint backlog:** The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+
+&#x20;     Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail so that they can inspect their progress in the Daily Scrum.
+
+_Commitment:_ Sprint Goal. it is the single objective for Sprint.
+
+**product increment:** An increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+
+&#x20;     Multiple Increments may be created within a Sprint. The sum of the increments is presented at the Sprint Review, thus supporting empiricism.
+
+_Commitment:_ Definition of Done. It is a formal description of the state of the Increment when it meets the quality measures required for the product.
+
+
 
 ### Scrum events&#x20;
 
