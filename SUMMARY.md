@@ -8,6 +8,7 @@
   * [Kanban](agile-software-development/kanban.md)
   * [Scrum](agile-software-development/scrum/README.md)
     * [Sprints](agile-software-development/scrum/sprints.md)
+    * [Scrum Master Core Competencies](agile-software-development/scrum/scrum-master-core-competencies.md)
 * [UML](uml/README.md)
   * [Page1](uml/page1.md)
   * [Page2](uml/page2.md)

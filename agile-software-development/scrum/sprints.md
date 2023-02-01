@@ -43,6 +43,11 @@ Failure to carry out any events as planned results in missed opportunities to in
        **When:** At the end of a sprint.
 
        **Duration:** Typically 45 minutes per week of iteration - e.g. a 90-minute retrospective after a two-week sprint.
+   * Outlines to a successful meeting :&#x20;
+     * Review Sprint’s results (product owner)
+     * Discuss and demonstrate the work.(scrum team)
+     * Update the status of the project(product owner)
+     * Collaborate on the plan ahead.(The team, stakeholders, Product Owner)
 4. Sprint Retrospective: The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness. The Scrum Team inspects how the last Sprint went with regard to individuals, interactions, processes, tools, and their Definition of Done.
    * The Scrum Team identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.
    *   **Attendees:** Development team, scrum master, product owner
@@ -128,6 +133,12 @@ An information radiator is anything that you post on the wall or on team sites t
 Task board: think of it GitHub board.&#x20;
 
 * It shows the stories committed in the sprint, the stories in their current status, and the stories that are completed.
+
+#### Burndown Chart&#x20;
+
+{% embed url="https://alison.com/courseware/5265/28128/4/images/1653473667282741848.png" %}
+the _x-axis is the time, showing the days of the sprint_, and _the y-axis is the total sum of task estimates_. The _blue line_ depicts _the ideal way_ the amount of work should go down. It starts with the total number of tasks, and then by the end of the sprint, it goes down to zero. The _red line_ shows the _actual task remaining_.&#x20;
+{% endembed %}
 
 ### useful websites
 
