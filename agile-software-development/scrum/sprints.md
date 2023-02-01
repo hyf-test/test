@@ -16,15 +16,21 @@ Failure to carry out any events as planned results in missed opportunities to in
 
 {% embed url="https://alison.com/courseware/5265/28128/2/images/16646114841375557409.png" %}
 
-1. sprint Planning: Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.     &#x20;
-   * _The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal_
-   *   **Attendees:** Development team, scrum master, product owner
+1. sprint Planning: Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.    &#x20;
+   * &#x20;In this meeting, the team picks the top stories that they can work on in the existing Sprint.
+     * _The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal_
+       *   **Attendees:** Development team, scrum master, product owner
 
-       **When:** At the beginning of a sprint.
+           **When:** At the beginning of a sprint.
 
-       **Duration:** Usually around one hour per week of iteration. e.g. a two-week sprint kicks off with a two-hour planning meeting.
+           **Duration:** Usually around one hour per week of iteration. e.g. a two-week sprint kicks off with a two-hour planning meeting.
+       * Later, the team gets together to 'task out' the stories to figure out what exactly they need to do to build the software; like designing the database, developing the User Interface (UI), and so on.
 2.  Daily Scrum: The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
+    * For a scrum to work, it relies on the three C’s. Collaboration Communication and Cadence:
+      * It occurs at the same time every day. So the Scrum Master will select a time that works for everyone.
+      * During the meeting, everybody talks about what they did yesterday, what they are going to do today, and if there are any roadblocks, ask for help. No one should give a detailed breakdown of their activities. Just the overview.
+      * Daily Scrums should be short. It should be limited to 15 minutes. It can be shorter, but it cannot be longer. The whole team might stand up to keep it fast.
     *   **Attendees:** Development team, scrum master, product owner
 
         **When:** Once per day, typically in the morning.
@@ -81,6 +87,47 @@ Example&#x20;
 
 * As a user, I can write a review on the other user’s profile page to express my gratitude about their help.
   * The story is considered **done** when I can successfully display my a review about the user on their page
+
+## Definition of Done (DoD)
+
+DoD describes the Development Team’s shared understanding of the work needed to create a usable, releasable increment. This definition needs to meet (or exceed) any existing organizational definition.
+
+These definitions may include depending on how achievable and appropriate for the product and the team
+
+* Unit tests are passed
+* Code is reviewed
+* Acceptance criteria are met
+* Functional Tests are passed
+* The Product Owner accepts the User Story
+
+#### Sprint duration (cadence)
+
+Scrum says that Sprint can be anywhere **from 1 to 4 weeks** in length, with a preference for a shorter timescale.
+
+If your Sprint is too short, the team intends to panic, and the quality degrades. If your sprint is too long, the team will unconsciously relax, and their pace will degrade.
+
+### Velocity&#x20;
+
+**Velocity** is an indication of the average amount of Product Backlog (story points) turned into an Increment of product during a Sprint by a Scrum Team, tracked by the Developers for use within the Scrum Team.&#x20;
+
+### Estimate
+
+The purpose of an estimate is to help a development team forecast what can be developed in a Sprint and to help a product owner manage a product backlog, specifically by determining whether an item has enough assumed value to warrant the investment in doing it (i.e., ROI).
+
+You can approach estimation in two different ways:&#x20;
+
+* Estimate the effort necessary, represented by hours or working days
+* Do relative estimation, which means you compare a chunk of work to something else based on an understood reference point.
+
+The techniques you use (planning poker) are not as important as how you use them and the benefits the Scrum Team is gaining.
+
+### Information Radiator&#x20;
+
+An information radiator is anything that you post on the wall or on team sites that help everyone understand what you’re doing and how it’s going.
+
+Task board: think of it GitHub board.&#x20;
+
+* It shows the stories committed in the sprint, the stories in their current status, and the stories that are completed.
 
 ### useful websites
 
