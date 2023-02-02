@@ -10,6 +10,7 @@
     * [Sprints](agile-software-development/scrum/sprints.md)
     * [Scrum Master Core Competencies](agile-software-development/scrum/scrum-master-core-competencies/README.md)
       * [Scrum master & Product owner](agile-software-development/scrum/scrum-master-core-competencies/scrum-master-and-product-owner.md)
+* [user stories](user-stories.md)
 * [UML](uml/README.md)
   * [Page1](uml/page1.md)
   * [Page2](uml/page2.md)
