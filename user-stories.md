@@ -31,3 +31,8 @@ The structure of the user story should indicate, that, as a user, _I want to per
 * Then, we estimate the effort needed to complete the work in a sprint.\
 
 * And finally, we order items in the product backlog based on market research and interactions with customers.
+
+## MoSCoW Method
+
+{% embed url="https://alison.com/courseware/5265/28132/6/images/166055512483477208.png" %}
+

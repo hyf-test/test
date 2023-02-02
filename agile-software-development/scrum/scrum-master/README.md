@@ -2,7 +2,7 @@
 description: What can I do to make it easier for my team to perform their work?
 ---
 
-# Scrum Master Core Competencies
+# Scrum Master
 
 The primary accountability of the Scrum Master is to provide delivery leadership, experience, and expertise by managing the scrum process and improving their organization's ability to deliver a valuable, relevant product.
 
@@ -313,3 +313,5 @@ DOD evolution
 _Agile development practices concentrate on how to support decentralized coordination in a multiple-team environment while providing enough boundaries and structure to avoid chaos._
 
 {% embed url="https://alison.com/courseware/5265/28131/6/images/1660231841373620566.png" %}
+
+_''Leading, training, and coaching the organization on Scrum" - Scrum Guide._
