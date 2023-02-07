@@ -10,6 +10,7 @@
     * [Sprints](agile-software-development/scrum/sprints.md)
     * [Scrum Master](agile-software-development/scrum/scrum-master/README.md)
       * [Scrum master & Product owner](agile-software-development/scrum/scrum-master/scrum-master-and-product-owner.md)
+      * [Typical day of a Scrum Master](agile-software-development/scrum/scrum-master/typical-day-of-a-scrum-master.md)
 * [user stories](user-stories.md)
 * [UML](uml/README.md)
   * [Page1](uml/page1.md)
